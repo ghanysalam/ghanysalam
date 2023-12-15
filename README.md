@@ -46,6 +46,7 @@ Tools:
 **Projects**
 
 **Project 1: Travel Insurance Claim Prediction**
+
 Description: Implemented a machine learning model to predict policyholders who are likely to file a travel insurance claim. The primary objective was to assist the insurance company in identifying high-risk policyholders, enabling proactive risk management and personalized customer engagement.
 
 Technologies Used:
@@ -65,6 +66,7 @@ Evaluated model performance through metrics such as precision, recall, and F1-sc
 GitHub Repository:  [Travel Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
 
 **Project 2: Term Deposit Subscription Prediction**
+
 Description: Developed a predictive model to forecast which bank customers are likely to subscribe to a term deposit as part of a marketing campaign. The goal was to optimize the bank's marketing efforts by targeting customers with a higher probability of opening a term deposit account.
 
 Technologies Used:
