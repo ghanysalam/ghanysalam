@@ -1,19 +1,20 @@
-Data Scientist Portfolio
-Introduction
+**Data Scientist Portfolio**
+**Introduction**
 Welcome to my GitHub repository! I'm Ghany Salam, a passionate and results-driven data scientist with a strong background in Conputer Science. With a keen interest in solving complex problems using data-driven approaches, I thrive on turning raw data into actionable insights.
 
-About Me
+**About Me**
 Name: Ghany Salam
 Location: Jakarta, Indonesia
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghanysalam/)
 Email: ghany.salam12@gmail.com
-Education
+
+**Education**
 Degree: Computer Science
 Major: Information System
 University: UPN Veteran Jakarta
 Year Graduated: 2022
 
-Skills
+**Skills**
 
 Programming Languages:
 - Python
@@ -40,8 +41,9 @@ Tools:
 - Jupyter Notebooks
 - Git
 
-Projects
-Project 1: Travel Insurance Claim Prediction
+**Projects**
+
+**Project 1: Travel Insurance Claim Prediction**
 Description: Implemented a machine learning model to predict policyholders who are likely to file a travel insurance claim. The primary objective was to assist the insurance company in identifying high-risk policyholders, enabling proactive risk management and personalized customer engagement.
 
 Technologies Used:
@@ -59,7 +61,7 @@ Built a predictive model using classification algorithms to identify potential c
 Evaluated model performance through metrics such as precision, recall, and F1-score.
 GitHub Repository:  [Travel Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
 
-Project 2: Term Deposit Subscription Prediction
+**Project 2: Term Deposit Subscription Prediction**
 Description: Developed a predictive model to forecast which bank customers are likely to subscribe to a term deposit as part of a marketing campaign. The goal was to optimize the bank's marketing efforts by targeting customers with a higher probability of opening a term deposit account.
 
 Technologies Used:
