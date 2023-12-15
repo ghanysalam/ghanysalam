@@ -1,4 +1,6 @@
 **Data Scientist Portfolio**
+
+
 **Introduction**
 Welcome to my GitHub repository! I'm Ghany Salam, a passionate and results-driven data scientist with a strong background in Conputer Science. With a keen interest in solving complex problems using data-driven approaches, I thrive on turning raw data into actionable insights.
 
