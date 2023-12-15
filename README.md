@@ -61,6 +61,7 @@ Conducted data exploration to understand the distribution of features and identi
 Engineered relevant features, considering factors such as travel destination, trip duration, and past claim history.
 Built a predictive model using classification algorithms to identify potential claimants.
 Evaluated model performance through metrics such as precision, recall, and F1-score.
+
 GitHub Repository:  [Travel Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
 
 **Project 2: Term Deposit Subscription Prediction**
@@ -79,6 +80,7 @@ Explored and preprocessed the bank's marketing data, handling missing values and
 Conducted feature engineering to capture relevant customer behaviors and characteristics.
 Employed classification algorithms to predict whether a customer would subscribe to a term deposit.
 Utilized model interpretability techniques to understand the factors influencing subscription decisions.
+
 GitHub Repository: [Term Deposit Subscription Prediction](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_11_FinalProject)
 
 Certifications
