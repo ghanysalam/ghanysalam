@@ -54,43 +54,61 @@ Tools:
 
 **Projects**
 
-**Project 1: Travel Insurance Claim Prediction**
+**Project 1: Transjakarta Transaction Analysis**
 
-Description: Implemented a machine learning model to predict policyholders who are likely to file a travel insurance claim. The primary objective was to assist the insurance company in identifying high-risk policyholders, enabling proactive risk management and personalized customer engagement.
-
-Technologies Used:
-
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Jupyter Notebooks
-
-Key Contributions:
-
-Conducted data exploration to understand the distribution of features and identify potential patterns.
-Engineered relevant features, considering factors such as travel destination, trip duration, and past claim history.
-Built a predictive model using classification algorithms to identify potential claimants.
-Evaluated model performance through metrics such as precision, recall, and F1-score.
-
-GitHub Repository:  [Travel Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
-
-**Project 2: Term Deposit Subscription Prediction**
-
-Description: Developed a predictive model to forecast which bank customers are likely to subscribe to a term deposit as part of a marketing campaign. The goal was to optimize the bank's marketing efforts by targeting customers with a higher probability of opening a term deposit account.
+Description: This project tackled the challenges of increasing user demand and route complexity in Jakarta's public bus network, Transjakarta. By analyzing transaction data, I aimed to uncover user behavior patterns and evaluate the efficiency of the service. The objective was to enhance route planning and optimize travel times, ultimately improving user experience and increasing revenue.
 
 Technologies Used:
 
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Jupyter Notebooks
+- R and Python for data analysis and processing
+- Data visualization tools like ggplot2 and Matplotlib
+- SQL for database management and queries
+- Advanced statistical analysis methods
 
 Key Contributions:
 
-Explored and preprocessed the bank's marketing data, handling missing values and encoding categorical variables.
-Conducted feature engineering to capture relevant customer behaviors and characteristics.
-Employed classification algorithms to predict whether a customer would subscribe to a term deposit.
-Utilized model interpretability techniques to understand the factors influencing subscription decisions.
+Analyzed large datasets of Transjakarta transactions to identify user behavior and corridor usage patterns.
+Applied statistical models to forecast user demand and optimize bus schedules and routes.
+Successfully reduced the travel time on one of the busiest corridors from 102 minutes to 27 minutes through data-driven route adjustments.
+Proposed changes based on analysis led to a potential 400% increase in revenue, demonstrating the impact of strategic data use on operational efficiency and profitability.
+GitHub Repository: Transjakarta Transaction Analysis
+
+GitHub Repository:  [Transjakarta Transaction Analysis](https://github.com/ghanysalam/Capstone_2-Transjakarta_Transactions_Analysis)
+
+**Project 2: Travel Insurance Analytics: Insurance Claim Prediction**
+
+Description: This project aimed to assist a travel insurance company in optimizing its marketing and resource allocation by predicting which policyholders were more likely to file insurance claims. By developing a predictive model using historical data, I could categorize customers based on their claim filing probability. This initiative was crucial for the company to streamline its resources effectively.
+
+Technologies Used:
+
+Python for data processing and modeling
+Pandas and NumPy for data manipulation
+Scikit-learn for machine learning algorithms
+Data visualization tools like Seaborn and Matplotlib
+Key Contributions:
+
+Designed and implemented a machine learning model to predict the likelihood of insurance claims by policyholders.
+Analyzed historical data to identify key factors influencing claim probabilities.
+Successfully increased the company's profits by 59% by enabling more targeted marketing and efficient resource allocation.
+Provided actionable insights for risk management and customer segmentation.
+
+GitHub Repository:  [Travel Insurance Analytics: Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
+
+**Project 3: Term Deposit Subscription Prediction**
+
+Description: In this project, the focus was on enhancing the efficacy of Bank Portugal's marketing campaigns for term deposits. The challenge was to identify potential customers who were more likely to invest in term deposits. I conducted an extensive analysis of customer demographics, transactional behaviors, and prevailing economic trends to assess their impact on investment decisions.
+
+Technologies Used:
+
+Python for statistical analysis and data processing
+SQL for managing large datasets and performing complex queries
+Machine learning techniques using Python's Scikit-learn
+Data visualization with Tableau and ggplot2
+Key Contributions:
+
+Employed machine learning models on historical data to predict customer tendencies towards term deposit investments.
+Analyzed various customer attributes and economic indicators to understand their influence on investment decisions.
+Achieved an additional profit of $60,358.97 for the company by leveraging the predictive model, highlighting the value of data-driven decision-making in marketing strategies.
 
 GitHub Repository: [Term Deposit Subscription Prediction](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_11_FinalProject)
 
