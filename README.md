@@ -3,7 +3,11 @@
 
 **Introduction**
 
-Welcome to my GitHub repository! I'm Ghany Salam, a passionate and results-driven data scientist with a strong background in Conputer Science. With a keen interest in solving complex problems using data-driven approaches, I thrive on turning raw data into actionable insights.
+Welcome to my GitHub repository! I'm Ghany Salam, An experienced Data Analyst with a background in Information Systems and expertise in data processing to support business decision-making. My experience in the banking industry has helped me develop the ability to handle complex data, create meaningful visualizations, and provide strategic insights to management.
+
+Proficient in Python, SQL, Tableau, and Excel for data analysis, and I have a foundational understanding of AI and machine learning. My most recent project involved analyzing insurance claim patterns to improve operational efficiency.
+
+In the future, I aspire to deepen my knowledge in AI and machine learning to create innovative solutions that can solve business problems.
 
 **About Me**
 
