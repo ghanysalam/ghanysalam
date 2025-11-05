@@ -55,7 +55,7 @@ _(Repository to be published)_
 ## Education & Certifications
 
 - **Purwadhika Digital Technology School** — Certificate in Data Science & Machine Learning (Score 82.97/100)  
-- **UPN Veteran Jakarta** — B.Sc. in Information Systems (GPA 3.76/4.00)
+- **UPN Veteran Jakarta** — B.Sc. in Computer Science (GPA 3.76/4.00)
 
 ---
 
