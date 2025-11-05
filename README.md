@@ -37,7 +37,7 @@ Statistical analysis of rider behavior and corridor utilization for service effi
 ### 4) News Credibility Classification (Fake vs. Factual)
 End-to-end NLP pipeline (cleaning → BoW/TF-IDF → **logistic regression**) on 198 articles. Test accuracy ~**82%** with **85% recall** on the *Fake* class to minimize high-risk content slipping through.  
 **Tech:** scikit-learn, NLTK/VADER  
-_(Repository to be published)_
+**Repo:** [Fake News Detection](https://github.com/ghanysalam/Fake-News-Detection---NLP-Practice)
 
 ---
 
