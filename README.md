@@ -34,10 +34,10 @@ Statistical analysis of rider behavior and corridor utilization for service effi
 **Tech:** Python/R, SQL, visualization (Matplotlib/ggplot2), advanced statistics  
 **Repo:** [Transjakarta Transaction Analysis](https://github.com/ghanysalam/Capstone_2-Transjakarta_Transactions_Analysis)
 
-### 4) News Credibility Classification (Fake vs. Factual)
-End-to-end NLP pipeline (cleaning → BoW/TF-IDF → **logistic regression**) on 198 articles. Test accuracy ~**82%** with **85% recall** on the *Fake* class to minimize high-risk content slipping through.  
+### 4) Twitter Sentiment Analysis using Machine Learning
+Built an NLP pipeline on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
 **Tech:** scikit-learn, NLTK/VADER  
-**Repo:** [Fake News Detection](https://github.com/ghanysalam/Fake-News-Detection---NLP-Practice)
+**Repo:** [Fake News Detection](https://github.com/ghanysalam/Twitter-Sentiment-Analysis-using-Machine-Learning)
 
 ---
 
