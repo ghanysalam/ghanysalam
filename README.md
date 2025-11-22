@@ -19,25 +19,25 @@ Hi! I’m **Ghany Salam**, a Data Analyst based in Jakarta with end-to-end exper
 
 ## Selected Projects
 
-### 1) Bank Marketing Campaigns — Term Deposit
+### 1) Twitter Sentiment Analysis using Machine Learning
+Built an NLP pipeline on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
+**Tech:** scikit-learn, NLTK/VADER  
+**Repo:** [Twitter Sentiment Analysis](https://github.com/ghanysalam/Twitter-Sentiment-Analysis-using-Machine-Learning)
+
+### 2) Bank Marketing Campaigns — Term Deposit
 Predicted customers likely to open a **term deposit** using demographic, behavioral, and macro features. The model improved targeting efficiency and delivered **additional savings of USD 60,358.97** vs. traditional methods.  
 **Tech:** Python, scikit-learn, SQL, Tableau  
 **Repo:** [Term Deposit Subscription Prediction](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_11_FinalProject)
 
-### 2) Travel Insurance Analytics — Claim Prediction
+### 3) Travel Insurance Analytics — Claim Prediction
 Classification model to prioritize policyholders with higher claim likelihood, guiding resource allocation & marketing. Strategy driven by the model produced **~59% profit uplift**.  
 **Tech:** Python (pandas, numpy, scikit-learn), Matplotlib/Seaborn  
 **Repo:** [Travel Insurance Analytics: Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
 
-### 3) Transjakarta User Behavior Analysis
+### 4) Transjakarta User Behavior Analysis
 Statistical analysis of rider behavior and corridor utilization for service efficiency. Data-backed recommendations reduced the busiest corridor travel time from **102 → 27 minutes** and showed potential **~400% revenue growth**.  
 **Tech:** Python/R, SQL, visualization (Matplotlib/ggplot2), advanced statistics  
 **Repo:** [Transjakarta Transaction Analysis](https://github.com/ghanysalam/Capstone_2-Transjakarta_Transactions_Analysis)
-
-### 4) Twitter Sentiment Analysis using Machine Learning
-Built an NLP pipeline on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
-**Tech:** scikit-learn, NLTK/VADER  
-**Repo:** [Twitter Sentiment Analysis](https://github.com/ghanysalam/Twitter-Sentiment-Analysis-using-Machine-Learning)
 
 ---
 
@@ -54,6 +54,7 @@ Built an NLP pipeline on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, a
 
 ## Education & Certifications
 
+-**IBM** — Certificate in AI Engineer Professional (Ongoing)  
 - **Purwadhika Digital Technology School** — Certificate in Data Science & Machine Learning (Score 82.97/100)  
 - **UPN Veteran Jakarta** — B.Sc. in Computer Science (GPA 3.76/4.00)
 
