@@ -1,6 +1,6 @@
-# Ghany Salam — Data Analyst Portfolio
+# Ghany Salam — Data Scientist / Machine Learning Portfolio
 
-Hi! I’m **Ghany Salam**, a Data Analyst based in Jakarta with end-to-end experience in banking analytics: wrangling data, building pipelines, crafting dashboards, and developing predictive models to support business decisions. I work closely with risk & credit teams and care about accuracy, transparency, and speed.
+Data Analyst with strong experience in banking and credit-insurance analytics, currently transitioning into a Data Scientist / Machine Learning Engineer role. Experienced in building end-to-end data pipelines, predictive models, and interactive dashboards that support risk and business decision-making. Hands-on with Python, SQL, scikit-learn, and Tableau, with project experience in credit risk, insurance claim prediction, large-scale NLP on 1.6M tweets, and deep learning for image classification using transfer learning (VGG16, TensorFlow/Keras). Currently pursuing the IBM AI Engineering Professional Certificate to deepen my skills in deep learning with Keras and TensorFlow..
 
 [LinkedIn](https://www.linkedin.com/in/ghanysalam) · [GitHub](https://github.com/ghanysalam) · ghany.salam12@gmail.com · Jakarta, Indonesia
 
