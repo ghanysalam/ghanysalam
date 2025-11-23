@@ -19,8 +19,14 @@ Data Analyst with strong experience in banking and credit-insurance analytics, c
 
 ## Selected Projects
 
+### 1) Classify Waste Products Using Transfer Learning
+Built a waste image classifier to distinguish organic (O) vs recyclable (R) using transfer learning; feature baseline model achieved 87% test accuracy with macro F1-score 0.87. 
+**Tech:** scikit-learn, NLTK/VADER  
+**Repo:** [Classify Waste Products Using Transfer Learning](https://github.com/ghanysalam/Classify-Waste-Products-Using-Transfer-Learning)
+
+
 ### 1) Twitter Sentiment Analysis using Machine Learning
-Built an NLP pipeline on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
+Built a NLP model on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
 **Tech:** scikit-learn, NLTK/VADER  
 **Repo:** [Twitter Sentiment Analysis](https://github.com/ghanysalam/Twitter-Sentiment-Analysis-using-Machine-Learning)
 
