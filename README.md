@@ -9,11 +9,12 @@ Data Analyst with strong experience in banking and credit-insurance analytics, c
 ## Experience
 
 **Data Analyst — Bank Woori Saudara (Mar 2024–Aug 2025, Jakarta)**  
-- Collected, cleaned, and analyzed credit process data (outside insurance) including insurance closures, premium payments/refunds, and claims for unsecured and secured loans.  
-- Designed and automated cross-branch/segment dashboards and recurring reports to monitor credit & insurance performance—improving compliance, transparency, and timely decisions.  
-- Built an **end-to-end data pipeline** (Python → Tableau) to replace manual Excel reporting, cutting processing time by **~60%** and improving accuracy.  
-- Developed a **linear regression model** to project outstanding insurance claims for **proactive risk management and financial planning**.  
-- Performed reconciliation and data validation to align credit performance with insurance coverage; ad-hoc analyses revealed early risk patterns that enabled faster interventions.
+● Developed a predictive classification model to identify debtors at high risk of loan default caused by death (mortality risk).
+● Engineered a python data pipeline to combine various sources, powering Tableau dashboard to track KPIs across 150+ branches. 
+● Gathered, cleaned, and analyzed data on the entire credit insurance process for unsecured loans and secured loans. 
+● Collaborated with credit and risk divisions to support informed decision-making related to credit protection strategies. 
+● Delivered ad-hoc analysis on credit insurance data, uncovering risk patterns that enhanced the overall health of the loan
+portfolio.  
 
 ---
 
