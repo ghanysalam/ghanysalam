@@ -9,12 +9,11 @@ Data Analyst with strong experience in banking and credit-insurance analytics, c
 ## Experience
 
 **Data Analyst — Bank Woori Saudara (Mar 2024–Aug 2025, Jakarta)**  
-● Developed a predictive classification model to identify debtors at high risk of loan default caused by death (mortality risk).
-● Engineered a python data pipeline to combine various sources, powering Tableau dashboard to track KPIs across 150+ branches. 
-● Gathered, cleaned, and analyzed data on the entire credit insurance process for unsecured loans and secured loans. 
-● Collaborated with credit and risk divisions to support informed decision-making related to credit protection strategies. 
-● Delivered ad-hoc analysis on credit insurance data, uncovering risk patterns that enhanced the overall health of the loan
-portfolio.  
+- Developed a predictive classification model to identify debtors at high risk of loan default caused by death (mortality risk).
+- Engineered a python data pipeline to combine various sources, powering Tableau dashboard to track KPIs across 150+ branches. 
+- Gathered, cleaned, and analyzed data on the entire credit insurance process for unsecured loans and secured loans. 
+- Collaborated with credit and risk divisions to support informed decision-making related to credit protection strategies. 
+- Delivered ad-hoc analysis on credit insurance data, uncovering risk patterns that enhanced the overall health of the loan portfolio.  
 
 ---
 
