@@ -70,7 +70,7 @@ Statistical analysis of rider behavior and corridor utilization for service effi
 
 ## Education & Certifications
 
--**IBM** — Certificate in AI Engineer Professional (Ongoing)  
+- **IBM** — Certificate in AI Engineer Professional (Ongoing)  
 - **Purwadhika Digital Technology School** — Certificate in Data Science & Machine Learning (Score 82.97/100)  
 - **UPN Veteran Jakarta** — B.Sc. in Computer Science (GPA 3.76/4.00)
 
