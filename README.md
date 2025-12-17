@@ -1,6 +1,7 @@
 # Ghany Salam — Data Scientist / Machine Learning Portfolio
 
-Data Analyst with strong experience in banking and credit-insurance analytics, currently transitioning into a Data Scientist / Machine Learning Engineer role. Experienced in building end-to-end data pipelines, predictive models, and interactive dashboards that support risk and business decision-making. Hands-on with Python, SQL, scikit-learn, and Tableau, with project experience in credit risk, insurance claim prediction, large-scale NLP on 1.6M tweets, and deep learning for image classification using transfer learning (VGG16, TensorFlow/Keras). Currently pursuing the IBM AI Engineering Professional Certificate to deepen my skills in deep learning with Keras and TensorFlow..
+Data Scientist with a background in banking analytics, focused on using machine learning to solve credit and insurance problems. Built models for mortality-risk, travel-claim prediction, bank marketing response, NLP on 1.6M tweets, and computer vision using transfer
+learning. Recently built land classifier (agri vs non-agri) with CNN & CNN–ViT using Keras & PyTorch. I mainly use Python (Pandas, scikit-learn, TensorFlow/Keras, PyTorch), SQL, and Tableau, and I am currently completing the IBM AI Engineering professional. 
 
 [LinkedIn](https://www.linkedin.com/in/ghanysalam) · [GitHub](https://github.com/ghanysalam) · ghany.salam12@gmail.com · Jakarta, Indonesia
 
