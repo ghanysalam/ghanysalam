@@ -19,32 +19,37 @@ Data Analyst with strong experience in banking and credit-insurance analytics, c
 
 ## Selected Projects
 
-### 1) Classify Waste Products Using Transfer Learning
-Built a waste image classifier to distinguish organic (O) vs recyclable (R) using transfer learning; feature baseline model achieved 87% test accuracy with macro F1-score 0.87. 
+### 1) Land Classification (Satellite Imagery): CNN & CNN–ViT (Keras vs PyTorch)
+Built a computer vision model to classify agri vs non-agri land cover from 6,000 satellite images; implemented scalable loading &augmentation in Keras and PyTorch, benchmarked CNN vs CNN–ViT hybrid, achieving up to 99.9% accuracy and ROC-AUC 1.00. 
 
-**Tech:** scikit-learn, NLTK/VADER  
+**Tech:** TensorFlow, PyTorch, Deep Learning (CNN), Transformers (ViT)  
+**Repo:** [Land Classification (Satellite Imagery): CNN & CNN–ViT (Keras vs PyTorch)](https://github.com/ghanysalam/Land-Classification-Satellite-Imagery-CNN-CNN-ViT-with-Keras-PyTorch)
+
+### 2) Classify Waste Products (TensorFlow/Keras)
+Built a waste image classifier to distinguish organic (O) vs recyclable (R) using transfer learning (VGG166 CNN model). The feature baseline model achieved 87% test accuracy with macro F1-score 0.87. 
+
+**Tech:** TensorFlow, Deep Learning (CNN)
 **Repo:** [Classify Waste Products Using Transfer Learning](https://github.com/ghanysalam/Classify-Waste-Products-Using-Transfer-Learning)
 
-
-### 2) Twitter Sentiment Analysis using Machine Learning
+### 3) Twitter Sentiment Analysis using Machine Learning
 Built a NLP model on 1.6M labeled tweets using TF-IDF, compared SVM/LR/NB, and selected Logistic Regression with ~80% accuracy to deliver scalable, automated sentiment insights.  
 
 **Tech:** scikit-learn, NLTK/VADER  
 **Repo:** [Twitter Sentiment Analysis](https://github.com/ghanysalam/Twitter-Sentiment-Analysis-using-Machine-Learning)
 
-### 3) Bank Marketing Campaigns — Term Deposit
+### 4) Bank Marketing Campaigns — Term Deposit
 Predicted customers likely to open a **term deposit** using demographic, behavioral, and macro features. The model improved targeting efficiency and delivered **additional savings of USD 60,358.97** vs. traditional methods.  
 
 **Tech:** Python, scikit-learn, SQL, Tableau  
 **Repo:** [Term Deposit Subscription Prediction](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_11_FinalProject)
 
-### 4) Travel Insurance Analytics — Claim Prediction
+### 5) Travel Insurance Analytics — Claim Prediction
 Classification model to prioritize policyholders with higher claim likelihood, guiding resource allocation & marketing. Strategy driven by the model produced **~59% profit uplift**.  
 
 **Tech:** Python (pandas, numpy, scikit-learn), Matplotlib/Seaborn  
 **Repo:** [Travel Insurance Analytics: Insurance Claim Prediction](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim)
 
-### 5) Transjakarta User Behavior Analysis
+### 6) Transjakarta User Behavior Analysis
 Statistical analysis of rider behavior and corridor utilization for service efficiency. Data-backed recommendations reduced the busiest corridor travel time from **102 → 27 minutes** and showed potential **~400% revenue growth**.  
 
 **Tech:** Python/R, SQL, visualization (Matplotlib/ggplot2), advanced statistics  
