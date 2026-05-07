@@ -8,7 +8,7 @@ Data Engineer and Data Scientist with a background in banking analytics, special
 
 ## Experience
 
-**Data Analyst — Bank Woori Saudara (Mar 2024–Aug 2025, Jakarta)**
+**Data Analyst — Bank Woori Saudara (Apr 2024–Aug 2025, Jakarta)**
 - Engineered a Python data pipeline combining various sources, powering a Tableau dashboard to track KPIs across 150+ branches — reducing branches with minus KPI from ~17 to 1 within 3 months (94% improvement).
 - Transformed daily and weekly reporting from manual Excel processes to seamless Python + Tableau integration, improving time efficiency by 60%.
 - Analyzed debtor health portfolios, generating data-driven insights that reduced outstanding claims by 17% through improved risk monitoring.
