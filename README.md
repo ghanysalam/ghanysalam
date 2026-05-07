@@ -21,13 +21,19 @@ Data Engineer and Data Scientist with a background in banking analytics, special
 
 ### Data Engineering
 
-### 1) Banking Modern Data Stack (Real-time & Batch Engineering)
+### 1) Flights Operations Airflow Pipeline (Batch Data Engineering & Analytics)
+End-to-end batch data pipeline orchestrating live flight state extraction via OpenSky Network API, utilizing modular Python scripts and containerized Airflow for automated transformation and load into Snowflake Gold-layer tables, powering an interactive Streamlit dashboard for global aviation KPI monitoring and geospatial distribution analysis.
+
+- **Tech:** Apache Airflow, Python, Snowflake, Streamlit, PostgreSQL, Docker, Altair
+- **Repo:** [Flights Operations Airflow Pipeline (Batch Data Engineering & Analytics)](https://github.com/ghanysalam/flights-ops-airflow)
+
+### 2) Banking Modern Data Stack (Real-time & Batch Engineering)
 End-to-end banking data platform featuring real-time CDC via Kafka & Debezium into MinIO, orchestrated with Airflow for incremental batch loading into Snowflake, dbt transformations supporting SCD Type-2 history tracking and Star Schema within a Medallion architecture.
 
 - **Tech:** Apache Kafka, Debezium, Apache Airflow, MinIO, Snowflake, dbt, Docker
 - **Repo:** [Banking Modern Data Stack (Real-time & Batch Engineering)](https://github.com/ghanysalam/banking-data-engineering)
 
-### 2) NYC Taxi Data Pipeline (Analytics Engineering)
+### 3) NYC Taxi Data Pipeline (Analytics Engineering)
 End-to-end data platform orchestrating automated ETL/ELT with Kestra and dbt for Star Schema in BigQuery, with scalable batch and real-time stream processing using Apache Spark, Kafka, and Apache Flink.
 
 - **Tech:** Apache Spark, Kafka, Apache Flink, Kestra, dbt, BigQuery, GCP
